@@ -59,7 +59,7 @@ To make our insights clear, we added the following plots:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
    ```
-3. Place the `train.csv` Titanic dataset in the same folder
+3. Place the `tested.csv` Titanic dataset in the same folder
 4. Run the Python script or Jupyter Notebook
 
 ---
